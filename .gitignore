@@ -1,0 +1,4 @@
+venv
+tmp
+mycreds.txt
+client_secrets.json
